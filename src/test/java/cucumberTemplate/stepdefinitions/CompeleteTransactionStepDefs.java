@@ -142,6 +142,7 @@ public class CompeleteTransactionStepDefs {
     public void googles_security_window_pops_up() throws InterruptedException {
         System.out.println("this is step 20");
         ActionUtil.switchContex(0);
+        Thread.sleep(4000);
     }
 
     @Then("user agrees with the google security alert")
