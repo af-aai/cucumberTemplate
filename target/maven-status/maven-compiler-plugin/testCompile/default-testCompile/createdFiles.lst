@@ -1,0 +1,11 @@
+cucumberTemplate/utilities/DriverUtil.class
+cucumberTemplate/pages/PurchasedProductPage.class
+cucumberTemplate/stepdefinitions/CompeleteTransactionStepDefs.class
+cucumberTemplate/utilities/ActionUtil.class
+cucumberTemplate/runners/CukesRunner.class
+cucumberTemplate/pages/ProductsPage.class
+cucumberTemplate/utilities/AndroidHardkeys.class
+cucumberTemplate/pages/BasePage.class
+cucumberTemplate/stepdefinitions/Hooks.class
+cucumberTemplate/utilities/ConfigurationReader.class
+cucumberTemplate/pages/DashBoardPage.class
