@@ -151,6 +151,8 @@ public class CompeleteTransactionStepDefs {
         purchasedProductPage.el1.click();
         Thread.sleep(4000);
         purchasedProductPage.el2.click();
+
+        System.out.println("Test is finished");
     }
 
 }
