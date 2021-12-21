@@ -159,9 +159,6 @@ public class CompeleteTransactionStepDefs {
         System.out.println("Test is finished");
         System.out.println("\"test for jenkisn\" = " + "test for jenkisn");
 
-         WebDriver driver2 =new ChromeDriver();
-
-            driver2.get("http://localhost:8080/job/Test_generalapp/build?token=elyarabdullah");
         }
     }
 
